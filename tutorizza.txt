@@ -1,0 +1,19 @@
+1.perintah untuk aplikasi git
+2.[buat akun git]
+3.git config --global user.name "tutorial"
+4.git config --global user.email "emailanda@gamail.com"
+5.git config --list 
+6.hapus credensial windows
+7.
+8.ntuk pull
+9.git clone https://github.com/tutorial/Samsung_semesterSatu_SesiDua.git
+10.
+11.untuk push
+12.[add file]
+13.git add .
+14.git commit -m "tutorial"
+15.git push origin main
+16.git log
+17.
+18.
+19.
